@@ -1,4 +1,4 @@
-# becheck
+# CoCEC
 Source code of tool Combinational Circuit Equivalence Checker (CoCEC). CoCEC checks functional equivalence of two combinational circuits automatically. 
 
 Installation
